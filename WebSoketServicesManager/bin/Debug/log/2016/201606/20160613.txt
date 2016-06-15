@@ -1,0 +1,431 @@
+
+ 
+记录时间：2016-06-13 17:12:48,675 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:14:32,581 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：WebSocketServer-43332040 property: [(null)] - 
+错误描述：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+
+Server stack trace: 
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 77
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.EndInvokeHelper(Message reqMsg, Boolean bProxyCase)
+   在 System.Runtime.Remoting.Proxies.RemotingProxy.Invoke(Object NotUsed, MessageData& msgData)
+   在 SuperSocket.SocketBase.SessionHandler`1.EndInvoke(IAsyncResult result)
+   在 SuperSocket.SocketBase.AppServerBase`2.OnNewSessionConnectedCallback(IAsyncResult result) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketBase\AppServerBase.cs:行号 1430
+ 
+
+ 
+记录时间：2016-06-13 17:16:14,269 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:16:48,973 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.UsersManager property: [(null)] - 
+错误描述：Error
+ 
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   在 WebSoketServicesManager.UsersManager.Remove(String uid, String address) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\UsersManager.cs:行号 64
+
+ 
+记录时间：2016-06-13 17:16:49,598 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：WebSocketServer-43332040 property: [(null)] - 
+错误描述：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+
+Server stack trace: 
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 77
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.EndInvokeHelper(Message reqMsg, Boolean bProxyCase)
+   在 System.Runtime.Remoting.Proxies.RemotingProxy.Invoke(Object NotUsed, MessageData& msgData)
+   在 SuperSocket.SocketBase.SessionHandler`1.EndInvoke(IAsyncResult result)
+   在 SuperSocket.SocketBase.AppServerBase`2.OnNewSessionConnectedCallback(IAsyncResult result) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketBase\AppServerBase.cs:行号 1430
+ 
+
+ 
+记录时间：2016-06-13 17:16:50,816 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.UsersManager property: [(null)] - 
+错误描述：Error
+ 
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   在 WebSoketServicesManager.UsersManager.Remove(String uid, String address) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\UsersManager.cs:行号 64
+
+ 
+记录时间：2016-06-13 17:16:51,676 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：WebSocketServer-43332040 property: [(null)] - 
+错误描述：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+
+Server stack trace: 
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 77
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.EndInvokeHelper(Message reqMsg, Boolean bProxyCase)
+   在 System.Runtime.Remoting.Proxies.RemotingProxy.Invoke(Object NotUsed, MessageData& msgData)
+   在 SuperSocket.SocketBase.SessionHandler`1.EndInvoke(IAsyncResult result)
+   在 SuperSocket.SocketBase.AppServerBase`2.OnNewSessionConnectedCallback(IAsyncResult result) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketBase\AppServerBase.cs:行号 1430
+ 
+
+ 
+记录时间：2016-06-13 17:16:54,566 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.UsersManager property: [(null)] - 
+错误描述：Error
+ 
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   在 WebSoketServicesManager.UsersManager.Remove(String uid, String address) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\UsersManager.cs:行号 64
+
+ 
+记录时间：2016-06-13 17:16:55,145 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSocketServer-43332040 property: [(null)] - 
+错误描述：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+
+Server stack trace: 
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 77
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.EndInvokeHelper(Message reqMsg, Boolean bProxyCase)
+   在 System.Runtime.Remoting.Proxies.RemotingProxy.Invoke(Object NotUsed, MessageData& msgData)
+   在 SuperSocket.SocketBase.SessionHandler`1.EndInvoke(IAsyncResult result)
+   在 SuperSocket.SocketBase.AppServerBase`2.OnNewSessionConnectedCallback(IAsyncResult result) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketBase\AppServerBase.cs:行号 1430
+ 
+
+ 
+记录时间：2016-06-13 17:16:55,816 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.UsersManager property: [(null)] - 
+错误描述：Error
+ 
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   在 WebSoketServicesManager.UsersManager.Remove(String uid, String address) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\UsersManager.cs:行号 64
+
+ 
+记录时间：2016-06-13 17:16:56,348 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：WebSocketServer-43332040 property: [(null)] - 
+错误描述：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+
+Server stack trace: 
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 77
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.EndInvokeHelper(Message reqMsg, Boolean bProxyCase)
+   在 System.Runtime.Remoting.Proxies.RemotingProxy.Invoke(Object NotUsed, MessageData& msgData)
+   在 SuperSocket.SocketBase.SessionHandler`1.EndInvoke(IAsyncResult result)
+   在 SuperSocket.SocketBase.AppServerBase`2.OnNewSessionConnectedCallback(IAsyncResult result) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketBase\AppServerBase.cs:行号 1430
+ 
+
+ 
+记录时间：2016-06-13 17:16:57,379 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.UsersManager property: [(null)] - 
+错误描述：Error
+ 
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   在 WebSoketServicesManager.UsersManager.Remove(String uid, String address) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\UsersManager.cs:行号 64
+
+ 
+记录时间：2016-06-13 17:16:58,129 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WebSocketServer-43332040 property: [(null)] - 
+错误描述：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+
+Server stack trace: 
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 77
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.EndInvokeHelper(Message reqMsg, Boolean bProxyCase)
+   在 System.Runtime.Remoting.Proxies.RemotingProxy.Invoke(Object NotUsed, MessageData& msgData)
+   在 SuperSocket.SocketBase.SessionHandler`1.EndInvoke(IAsyncResult result)
+   在 SuperSocket.SocketBase.AppServerBase`2.OnNewSessionConnectedCallback(IAsyncResult result) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketBase\AppServerBase.cs:行号 1430
+ 
+
+ 
+记录时间：2016-06-13 17:16:58,832 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.UsersManager property: [(null)] - 
+错误描述：Error
+ 
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   在 WebSoketServicesManager.UsersManager.Remove(String uid, String address) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\UsersManager.cs:行号 64
+
+ 
+记录时间：2016-06-13 17:16:59,410 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WebSocketServer-43332040 property: [(null)] - 
+错误描述：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+
+Server stack trace: 
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 77
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.EndInvokeHelper(Message reqMsg, Boolean bProxyCase)
+   在 System.Runtime.Remoting.Proxies.RemotingProxy.Invoke(Object NotUsed, MessageData& msgData)
+   在 SuperSocket.SocketBase.SessionHandler`1.EndInvoke(IAsyncResult result)
+   在 SuperSocket.SocketBase.AppServerBase`2.OnNewSessionConnectedCallback(IAsyncResult result) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketBase\AppServerBase.cs:行号 1430
+ 
+
+ 
+记录时间：2016-06-13 17:22:47,407 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 81
+
+ 
+记录时间：2016-06-13 17:22:57,391 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:24:48,673 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:25:07,063 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.UsersManager property: [(null)] - 
+错误描述：Error
+ 
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   在 WebSoketServicesManager.UsersManager.Remove(String uid, String address) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\UsersManager.cs:行号 64
+
+ 
+记录时间：2016-06-13 17:25:21,926 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:26:41,298 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:27:52,770 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:28:14,020 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:28:37,848 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:28:49,130 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:29:07,943 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:31:59,741 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:39:19,820 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:39:26,133 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 17:40:30,229 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-13 18:08:15,273 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 

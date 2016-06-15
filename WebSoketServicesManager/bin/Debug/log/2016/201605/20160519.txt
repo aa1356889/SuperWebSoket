@@ -1,0 +1,24 @@
+
+ 
+记录时间：2016-05-19 09:52:40,504 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.FormManager property: [(null)] - 
+错误描述：测试log4
+ 
+
+ 
+记录时间：2016-05-19 09:53:14,750 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.FormManager property: [(null)] - 
+错误描述：测试log4
+ 
+
+ 
+记录时间：2016-05-19 09:55:53,935 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.FormManager property: [(null)] - 
+错误描述：测试2
+ 

@@ -1,0 +1,1595 @@
+
+ 
+记录时间：2016-06-15 06:30:27,928 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45连先生先生，手机号：13824597227，于2016/6/15 6:29:07已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:30:27,928 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3连先生先生，手机号：13824597227，于2016/6/15 6:29:07已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:30:27,928 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F连先生先生，手机号：13824597227，于2016/6/15 6:29:07已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:30:27,928 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息16F209893EB4495AA24E13BDC146CFCD连先生先生，手机号：13824597227，于2016/6/15 6:29:07已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:30:27,990 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E连先生先生，手机号：13824597227，于2016/6/15 6:29:07已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:30:27,990 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息B0ED3A198612463AA6E1B57D1FA5D196连先生先生，手机号：13824597227，于2016/6/15 6:29:07已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:30:27,990 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B连先生先生，手机号：13824597227，于2016/6/15 6:29:07已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:31:49,367 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息16F209893EB4495AA24E13BDC146CFCD肖先生先生，手机号：15917934351，于2016/6/15 6:30:57已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:31:53,195 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45肖先生先生，手机号：15917934351，于2016/6/15 6:30:57已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:31:53,195 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F肖先生先生，手机号：15917934351，于2016/6/15 6:30:57已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:31:53,195 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E肖先生先生，手机号：15917934351，于2016/6/15 6:30:57已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:31:53,195 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3肖先生先生，手机号：15917934351，于2016/6/15 6:30:57已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:31:53,258 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B肖先生先生，手机号：15917934351，于2016/6/15 6:30:57已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:31:53,258 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息B0ED3A198612463AA6E1B57D1FA5D196肖先生先生，手机号：15917934351，于2016/6/15 6:30:57已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:33:23,476 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3俊恒先生，手机号：13430141160，于2016/6/15 6:32:24已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:33:23,476 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F俊恒先生，手机号：13430141160，于2016/6/15 6:32:24已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:33:23,476 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45俊恒先生，手机号：13430141160，于2016/6/15 6:32:24已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:33:23,476 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息16F209893EB4495AA24E13BDC146CFCD俊恒先生，手机号：13430141160，于2016/6/15 6:32:24已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:33:23,539 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E俊恒先生，手机号：13430141160，于2016/6/15 6:32:24已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:33:23,539 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B俊恒先生，手机号：13430141160，于2016/6/15 6:32:24已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:33:23,539 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息B0ED3A198612463AA6E1B57D1FA5D196俊恒先生，手机号：13430141160，于2016/6/15 6:32:24已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 06:34:03,601 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3杨先生先生，手机号：13539155258，方案已设计好，请及时检查！
+ 
+
+ 
+记录时间：2016-06-15 06:34:03,601 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E杨先生先生，手机号：13539155258，方案已设计好，请及时检查！
+ 
+
+ 
+记录时间：2016-06-15 06:34:03,601 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F杨先生先生，手机号：13539155258，方案已设计好，请及时检查！
+ 
+
+ 
+记录时间：2016-06-15 06:34:03,601 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45杨先生先生，手机号：13539155258，方案已设计好，请及时检查！
+ 
+
+ 
+记录时间：2016-06-15 06:34:03,664 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B杨先生先生，手机号：13539155258，方案已设计好，请及时检查！
+ 
+
+ 
+记录时间：2016-06-15 06:34:38,711 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45吴先生先生，手机号：13502545296，方案已设计好，请及时检查！
+ 
+
+ 
+记录时间：2016-06-15 06:34:38,711 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E吴先生先生，手机号：13502545296，方案已设计好，请及时检查！
+ 
+
+ 
+记录时间：2016-06-15 06:34:38,711 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3吴先生先生，手机号：13502545296，方案已设计好，请及时检查！
+ 
+
+ 
+记录时间：2016-06-15 06:34:38,711 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F吴先生先生，手机号：13502545296，方案已设计好，请及时检查！
+ 
+
+ 
+记录时间：2016-06-15 06:34:38,773 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B吴先生先生，手机号：13502545296，方案已设计好，请及时检查！
+ 
+
+ 
+记录时间：2016-06-15 09:00:02,980 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：WebSocketServer-43332040 property: [(null)] - 
+错误描述：Listener (125.94.214.34:6380) error: 在其上下文中，该请求的地址无效。
+ 
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-15 09:23:00,197 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149杨振环/吴小姐先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:23:00,197 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45杨振环/吴小姐先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:23:00,197 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B杨振环/吴小姐先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:23:00,197 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E杨振环/吴小姐先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:23:00,197 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A杨振环/吴小姐先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:23:00,197 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94杨振环/吴小姐先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:23:00,197 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F杨振环/吴小姐先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:23:00,197 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3杨振环/吴小姐先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:23:00,197 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0杨振环/吴小姐先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:23:00,197 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E杨振环/吴小姐先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:23:24,260 
+线程ID:[27] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-15 09:46:38,605 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSocketServer-31523018 property: [(null)] - 
+错误描述：Listener (157.255.31.39:6380) error: 在其上下文中，该请求的地址无效。
+ 
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-15 09:49:00,207 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSocketServer-31523018 property: [(null)] - 
+错误描述：Listener (125.94.214.34:6380) error: 在其上下文中，该请求的地址无效。
+ 
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-15 09:49:12,472 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSocketServer-31523018 property: [(null)] - 
+错误描述：Listener (125.94.214.34:6380) error: 在其上下文中，该请求的地址无效。
+ 
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-15 09:49:44,739 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSocketServer-35489797 property: [(null)] - 
+错误描述：Listener (125.94.214.34:6380) error: 在其上下文中，该请求的地址无效。
+ 
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-15 09:50:36,687 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSocketServer-31523018 property: [(null)] - 
+错误描述：Listener (125.94.214.34:6380) error: 在其上下文中，该请求的地址无效。
+ 
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-15 09:51:44,829 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSocketServer-63840421 property: [(null)] - 
+错误描述：Listener (125.94.214.34:6381) error: 在其上下文中，该请求的地址无效。
+ 
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-15 09:52:49,163 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:52:49,163 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:52:49,163 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:52:49,163 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:52:49,163 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:52:49,163 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:52:49,163 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:52:49,163 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:52:49,163 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:52:49,163 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 09:54:32,882 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSocketServer-31523018 property: [(null)] - 
+错误描述：Listener (125.94.214.34:6381) error: 在其上下文中，该请求的地址无效。
+ 
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-15 09:54:53,038 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSocketServer-31523018 property: [(null)] - 
+错误描述：Listener (125.94.214.34:6380) error: 在其上下文中，该请求的地址无效。
+ 
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-15 09:57:19,725 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSocketServer-63840421 property: [(null)] - 
+错误描述：Listener (125.94.214.34:6380) error: 在其上下文中，该请求的地址无效。
+ 
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-15 10:02:53,154 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:02:53,154 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:02:53,154 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:02:53,154 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:02:53,154 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:02:53,154 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:02:53,154 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:02:53,154 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:02:53,154 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:02:53,154 
+线程ID:[26] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45培训先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:16:15,812 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-15 10:19:34,593 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-15 10:22:39,952 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:22:39,952 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:22:39,952 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息AF1EE8C2F1CE41BFB9CC518311D53A01蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:22:39,952 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:22:39,952 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:22:39,952 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:25:50,546 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F肖小姐小姐，手机号：18379666688，于2016/6/15 10:01:01已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 10:25:50,546 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3肖小姐小姐，手机号：18379666688，于2016/6/15 10:01:01已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 10:25:50,546 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45肖小姐小姐，手机号：18379666688，于2016/6/15 10:01:01已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 10:25:50,546 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6F27DB8491D94A42B640553218797E9C肖小姐小姐，手机号：18379666688，于2016/6/15 10:01:01已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 10:25:50,749 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息453355E27C234B0D82A0AED5BED98AD5肖小姐小姐，手机号：18379666688，于2016/6/15 10:01:01已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 10:25:50,749 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E肖小姐小姐，手机号：18379666688，于2016/6/15 10:01:01已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 10:25:50,749 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B肖小姐小姐，手机号：18379666688，于2016/6/15 10:01:01已上门量尺，请及时跟进与制作方案！
+ 
+
+ 
+记录时间：2016-06-15 10:39:43,113 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:43,128 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:43,128 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:43,128 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:43,316 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:43,316 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:43,316 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:43,347 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:43,347 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:43,347 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:48,128 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:48,144 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:48,144 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:48,144 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:48,332 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:48,332 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:48,332 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:48,363 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:48,363 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:48,363 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:53,144 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:53,160 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:53,160 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:53,160 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:53,347 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:53,347 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:53,347 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:53,378 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:53,378 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:39:53,378 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B李安庆/赖清波小姐有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 10:40:43,582 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-15 10:48:29,644 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-15 10:48:53,441 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-15 10:54:38,185 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:54:38,185 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:54:38,185 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:54:38,185 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:54:38,185 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息AF1EE8C2F1CE41BFB9CC518311D53A01蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:54:38,185 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 10:58:30,765 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-15 11:00:34,693 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 11:00:34,693 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 11:00:34,693 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 11:00:34,693 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 11:00:34,693 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息AF1EE8C2F1CE41BFB9CC518311D53A01蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 11:00:34,693 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-15 11:06:05,648 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45古瑜君先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 11:06:05,648 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E古瑜君先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 11:06:05,648 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F古瑜君先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 11:06:05,648 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3古瑜君先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 11:06:06,070 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A古瑜君先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 11:06:06,070 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0古瑜君先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 11:06:06,070 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E古瑜君先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 11:06:06,070 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94古瑜君先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 11:06:06,070 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149古瑜君先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 11:06:06,070 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B古瑜君先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-15 11:17:42,086 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-15 11:20:37,961 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-15 11:53:21,886 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-15 12:03:21,339 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45周林先生，订单I001160406001-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:03:21,339 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3周林先生，订单I001160406001-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:03:21,339 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F周林先生，订单I001160406001-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:03:21,339 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6F27DB8491D94A42B640553218797E9C周林先生，订单I001160406001-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:03:21,745 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149周林先生，订单I001160406001-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:03:21,745 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E周林先生，订单I001160406001-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:03:21,745 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息C881AB48E08D4DBF9E19964D883545EE周林先生，订单I001160406001-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:03:21,745 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B周林先生，订单I001160406001-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:04:06,480 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45曾春木先生，订单I001151229002-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:04:06,480 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6F27DB8491D94A42B640553218797E9C曾春木先生，订单I001151229002-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:04:06,480 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3曾春木先生，订单I001151229002-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:04:06,480 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F曾春木先生，订单I001151229002-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:04:06,886 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息C881AB48E08D4DBF9E19964D883545EE曾春木先生，订单I001151229002-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:04:06,886 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149曾春木先生，订单I001151229002-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:04:06,886 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E曾春木先生，订单I001151229002-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:04:06,886 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B曾春木先生，订单I001151229002-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:04:06,902 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6C0FCDA945BC450FB6879554AEAB1185曾春木先生，订单I001151229002-DD12已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:06:41,964 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F丘月茹先生，订单I001160515001-WY06已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:06:41,964 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45丘月茹先生，订单I001160515001-WY06已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:06:41,964 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6F27DB8491D94A42B640553218797E9C丘月茹先生，订单I001160515001-WY06已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:06:41,964 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3丘月茹先生，订单I001160515001-WY06已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:06:42,370 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B丘月茹先生，订单I001160515001-WY06已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:06:42,370 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E丘月茹先生，订单I001160515001-WY06已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:06:42,370 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149丘月茹先生，订单I001160515001-WY06已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:06:42,386 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息C881AB48E08D4DBF9E19964D883545EE丘月茹先生，订单I001160515001-WY06已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:07:22,495 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F丘月茹先生，订单I001160515001-DD08已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:07:22,495 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45丘月茹先生，订单I001160515001-DD08已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:07:22,495 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6F27DB8491D94A42B640553218797E9C丘月茹先生，订单I001160515001-DD08已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:07:22,511 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3丘月茹先生，订单I001160515001-DD08已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:07:22,527 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E丘月茹先生，订单I001160515001-DD08已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:07:22,542 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149丘月茹先生，订单I001160515001-DD08已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:07:27,105 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B丘月茹先生，订单I001160515001-DD08已通过审核。
+ 
+
+ 
+记录时间：2016-06-15 12:07:27,105 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息C881AB48E08D4DBF9E19964D883545EE丘月茹先生，订单I001160515001-DD08已通过审核。
+ 

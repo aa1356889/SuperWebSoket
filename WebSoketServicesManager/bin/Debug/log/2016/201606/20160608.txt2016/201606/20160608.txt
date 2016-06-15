@@ -1,0 +1,60 @@
+
+ 
+记录时间：2016-06-08 17:25:47,839 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSocketServer-61012415 property: [(null)] - 
+错误描述：Listener (10.1.127.11:6380) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+ 
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-08 17:26:00,437 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSocketServer-31523018 property: [(null)] - 
+错误描述：Listener (10.1.127.11:6380) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+ 
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-08 17:26:59,721 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSocketServer-31523018 property: [(null)] - 
+错误描述：Listener (10.1.127.11:6380) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+ 
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-08 17:28:37,472 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSocketServer-61012415 property: [(null)] - 
+错误描述：Listener (10.1.127.11:6380) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+ 
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40
+
+ 
+记录时间：2016-06-08 17:28:58,052 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：WebSocketServer-54444047 property: [(null)] - 
+错误描述：Listener (10.1.127.11:6380) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+ 
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) 位置 d:\Kerry\Workshop\SuperSocket\v1.6\SocketEngine\TcpAsyncSocketListener.cs:行号 40

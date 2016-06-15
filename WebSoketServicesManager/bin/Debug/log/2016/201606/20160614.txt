@@ -1,0 +1,1806 @@
+
+ 
+记录时间：2016-06-14 16:38:36,070 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-14 16:40:11,304 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3F25D24672C04B109852C1E470C476D5预警测试先生，电话：13826113251。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-14 17:07:34,251 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息你好李强
+ 
+
+ 
+记录时间：2016-06-14 18:04:29,538 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 81
+
+ 
+记录时间：2016-06-14 18:04:49,898 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息广播
+ 
+
+ 
+记录时间：2016-06-14 18:05:02,492 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.UsersManager property: [(null)] - 
+错误描述：Error
+ 
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   在 WebSoketServicesManager.UsersManager.Remove(String uid, String address) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\UsersManager.cs:行号 64
+
+ 
+记录时间：2016-06-14 18:08:21,333 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息fff
+ 
+
+ 
+记录时间：2016-06-14 18:10:26,661 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45张裕琪先生，手机号：13332742384，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:10:26,677 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3张裕琪先生，手机号：13332742384，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:10:26,677 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B张裕琪先生，手机号：13332742384，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:10:26,677 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F张裕琪先生，手机号：13332742384，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:10:26,677 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E张裕琪先生，手机号：13332742384，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:10:51,739 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息28A8E438E9314B78B3EF4BCBB4342559张裕琪先生，手机号：13332742384，已分配设计师梁李平，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:10:51,755 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45张裕琪先生，手机号：13332742384，已分配设计师梁李平，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:10:51,755 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3张裕琪先生，手机号：13332742384，已分配设计师梁李平，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:10:51,755 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息0F7936E45DE74903A6A154F88D00E801张裕琪先生，手机号：13332742384，已分配设计师梁李平，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:10:51,755 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B张裕琪先生，手机号：13332742384，已分配设计师梁李平，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:10:51,755 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F张裕琪先生，手机号：13332742384，已分配设计师梁李平，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:10:51,755 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E张裕琪先生，手机号：13332742384，已分配设计师梁李平，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:11:43,677 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 81
+
+ 
+记录时间：2016-06-14 18:12:01,958 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息28A8E438E9314B78B3EF4BCBB4342559张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:12:01,974 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CFBCEFBC72EE4ED082459AB86DE1897D张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:12:01,974 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:12:01,974 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5FD802978D3C439488FAD3F524D50930张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:12:01,974 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:12:01,974 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息D098E839090A4891B877E1D918965CA7张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:12:01,974 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:12:01,974 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:12:01,974 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:12:03,646 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:12:06,974 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息0F7936E45DE74903A6A154F88D00E801张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:13:35,016 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:13:35,016 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:13:35,016 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:13:35,016 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:13:35,016 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5FD802978D3C439488FAD3F524D50930张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:13:35,016 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:13:35,016 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:13:35,016 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息28A8E438E9314B78B3EF4BCBB4342559张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:13:35,016 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CFBCEFBC72EE4ED082459AB86DE1897D张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:13:35,016 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息D098E839090A4891B877E1D918965CA7张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:13:40,329 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息0F7936E45DE74903A6A154F88D00E801张裕琪先生，手机号：13332742384，产生了一条收款记录，请及时查看了解！
+ 
+
+ 
+记录时间：2016-06-14 18:14:16,829 
+线程ID:[26] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 81
+
+ 
+记录时间：2016-06-14 18:17:45,457 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息f
+ 
+
+ 
+记录时间：2016-06-14 18:21:04,411 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-14 18:22:07,755 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:22:11,239 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息AF1EE8C2F1CE41BFB9CC518311D53A01蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:22:11,239 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:22:11,239 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:22:11,239 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:22:11,239 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E蒋军APP测试不要删先生，手机号：13826113250，已分配导购员测试导购，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:24:03,849 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-14 18:24:28,193 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息测试
+ 
+
+ 
+记录时间：2016-06-14 18:44:22,133 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53081840E2D34D2EB096F493ADA255FE龙哥先生，手机号：13643080160，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:44:25,430 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E龙哥先生，手机号：13643080160，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:44:25,430 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B龙哥先生，手机号：13643080160，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:44:25,430 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F龙哥先生，手机号：13643080160，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:44:25,430 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45龙哥先生，手机号：13643080160，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:44:25,430 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3龙哥先生，手机号：13643080160，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:48:01,101 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E郑苏先生，手机号：13430163673，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:48:01,101 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53081840E2D34D2EB096F493ADA255FE郑苏先生，手机号：13430163673，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:48:01,101 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B郑苏先生，手机号：13430163673，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:48:01,101 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3郑苏先生，手机号：13430163673，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:48:01,101 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45郑苏先生，手机号：13430163673，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 18:48:01,101 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F郑苏先生，手机号：13430163673，已在创建录入系统，请及时跟进！
+ 
+
+ 
+记录时间：2016-06-14 20:16:52,675 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.WebSoketServices property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.GetList[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 217
+   在 Hammer.Cache.WBRedisMq.Getlist[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 48
+   在 WebSoketServicesManager.WebSoketServices.services_NewSessionConnected(WebSocketSession session) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\WebSoketServices.cs:行号 83
+
+ 
+记录时间：2016-06-14 20:54:35,039 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149陈新建先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 20:54:35,039 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B陈新建先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 20:54:35,039 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A陈新建先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 20:54:35,039 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3陈新建先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 20:54:35,039 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F陈新建先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 20:54:35,039 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E陈新建先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 20:54:35,039 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94陈新建先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 20:54:35,039 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45陈新建先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 20:54:35,039 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E陈新建先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 20:54:36,570 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0陈新建先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:42,721 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:42,721 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:42,721 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:42,721 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:42,721 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:42,721 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:42,721 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:42,721 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:42,721 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:43,955 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:47,736 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:47,736 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:47,736 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:47,736 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:47,736 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:47,736 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:47,736 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:47,736 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:47,736 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:48,971 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:52,752 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:52,752 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:52,752 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:52,752 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:52,752 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:52,752 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:52,752 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:52,752 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:52,752 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:53,986 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:57,767 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:57,767 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:57,767 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:57,767 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:57,767 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:57,767 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:57,767 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:57,767 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:57,767 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:00:59,002 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:01:02,783 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:01:02,783 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:01:02,783 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:01:02,783 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:01:02,783 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:01:02,783 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:01:02,783 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:01:02,783 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:01:02,783 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:01:04,017 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0丘月茹先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:46,665 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:46,680 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:46,696 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:46,696 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:46,696 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:46,696 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:46,696 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:46,696 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:46,696 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:47,915 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:51,680 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:51,696 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:51,712 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:51,712 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:51,712 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:51,712 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:51,712 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:51,712 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:51,727 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:52,930 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:56,696 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:56,712 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:56,727 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:56,727 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:56,727 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:56,727 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:56,727 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:56,727 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:56,743 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:48:57,946 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:01,712 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:01,727 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:01,743 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:01,743 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:01,743 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:01,743 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:01,743 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:01,743 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:01,759 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:02,962 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:06,727 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:06,743 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:06,759 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:06,759 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:06,759 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:06,759 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:06,759 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:06,759 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:06,774 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:07,977 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0周林先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:11,743 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:11,759 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:11,774 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:11,774 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:11,774 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:11,774 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:11,774 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:11,774 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:11,790 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:12,993 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:16,759 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:16,774 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:16,790 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:16,790 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:16,790 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:16,790 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:16,790 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:16,790 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:16,805 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:18,009 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:21,774 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:21,790 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:21,805 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:21,805 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:21,805 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:21,805 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:21,805 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:21,805 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:21,821 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:23,024 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:26,790 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息04A0E970C9AF4BB4AD2B5E8F1A5A6A45曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:26,805 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息5D9D367FB403457F870D9006728BEB7F曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:26,821 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息20C28DAEF87944ECB24DA0FA14410C7E曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:26,821 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息440443AFB5BD4D96B5B2188DBE00EA94曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:26,821 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息2DD4C080B69E4E6F9B887B40D63CF149曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:26,821 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息1C083EC0479046C3B97A6D0EE7CB72E3曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:26,821 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息6A388AB4C9084FDCACE2AAAC24CD138E曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:26,821 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息42FA99003C664696B4DF2B22394B373A曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:26,837 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息53C2D404C1D94FF9B4E5FCC1FAF2248B曾春木先生有一条新的订单，请及时处理。
+ 
+
+ 
+记录时间：2016-06-14 22:49:28,040 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息CE52C72B515C4CF39B6695EFCF5CBAA0曾春木先生有一条新的订单，请及时处理。
+ 

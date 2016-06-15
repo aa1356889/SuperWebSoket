@@ -1,0 +1,20 @@
+
+ 
+记录时间：2016-06-07 14:39:40,278 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：Error
+ 
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: . Path '', line 1, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Hammer.Cache.WBRedisCache.DeserializeJSON[T](String json) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 374
+   在 Hammer.Cache.WBRedisCache.ListPop[T](String key, Nullable`1 ts) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisCache.cs:行号 251
+   在 Hammer.Cache.WBRedisMq.Pop[T](String key) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\Cache\WBRedisMq.cs:行号 37
+   在 WebSoketServicesManager.MessageMonitor.<Star>b__0() 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\MessageMonitor.cs:行号 38

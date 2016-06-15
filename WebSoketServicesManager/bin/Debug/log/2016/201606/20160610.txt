@@ -1,0 +1,40 @@
+
+ 
+记录时间：2016-06-10 09:08:55,753 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3283D30FF3434AB1831338898B0CB7F8测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-10 10:50:03,626 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3283D30FF3434AB1831338898B0CB7F8测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-10 10:51:57,453 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3283D30FF3434AB1831338898B0CB7F8测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-10 10:53:57,831 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3283D30FF3434AB1831338898B0CB7F8测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 
+
+ 
+记录时间：2016-06-10 10:55:25,372 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.MessageMonitor property: [(null)] - 
+错误描述：接受到一条消息3283D30FF3434AB1831338898B0CB7F8测试先生，电话：13243868978。已分配，请留意并电话联系客户。
+ 

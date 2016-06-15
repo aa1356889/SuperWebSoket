@@ -1,0 +1,22 @@
+
+ 
+记录时间：2016-06-04 17:14:59,061 
+线程ID:[75] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.UsersManager property: [(null)] - 
+错误描述：Error
+ 
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   在 WebSoketServicesManager.UsersManager.Remove(String uid, String address) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\UsersManager.cs:行号 64
+
+ 
+记录时间：2016-06-04 17:14:59,311 
+线程ID:[50] 
+日志级别：  ERROR 
+出错类：WebSoketServicesManager.UsersManager property: [(null)] - 
+错误描述：Error
+ 
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   在 WebSoketServicesManager.UsersManager.Remove(String uid, String address) 位置 f:\暂放测试signalr\老版类库\WebSoketServicesManager\WebSoketServicesManager\UsersManager.cs:行号 64
