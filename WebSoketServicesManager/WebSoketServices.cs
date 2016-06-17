@@ -35,13 +35,13 @@ namespace WebSoketServicesManager
         {
             users = new UsersManager();
             services = new WebSocketServer();
-            ServerConfig config=new ServerConfig()
+            ServerConfig config = new ServerConfig()
             {
-                Ip=ip,
-                Port=port,
-                MaxConnectionNumber=10000
+                Ip = ip,
+                Port = port,
+                MaxConnectionNumber = 10000
             };
-           services.Setup(config);
+            services.Setup(config);
             services.NewSessionConnected += services_NewSessionConnected;
             services.NewMessageReceived += services_NewMessageReceived;
             services.SessionClosed += services_SessionClosed;
@@ -79,14 +79,14 @@ namespace WebSoketServicesManager
             users.Add(user);
             try
             {
-              
+
                 var list = WBRedisMq.Getlist<Iwotp>(key);
 
 
 
 
 
-             
+
                 if (list != null && list.Count > 0)
                 {
                     Task.Run(() =>
@@ -99,7 +99,7 @@ namespace WebSoketServicesManager
                             var trasmiter = MessageProcessFactory.Factory(i.Key, this); ;
                             trasmiter.ProcessSend(i.ToList<Iwotp>().ToArray());
                         }
-                      
+
 
                     });
                 }
@@ -124,7 +124,7 @@ namespace WebSoketServicesManager
         /// <returns></returns>
         public bool Gave(NameValueCollection values)
         {
-            
+
             if (values == null | values.Count < 2)
             {
                 return false;
@@ -148,8 +148,8 @@ namespace WebSoketServicesManager
                 }
             }
             strs.Add(password);
-           string md5passWord=MD5.Encode(strs.ToArray());
-           return md5passWord == values["password"];
+            string md5passWord = MD5.Encode(strs.ToArray());
+            return md5passWord == values["password"];
         }
         public void Send(Iwotp iwotp)
         {
@@ -188,7 +188,7 @@ namespace WebSoketServicesManager
             var sessinos = services.GetAllSessions();
             foreach (var item in sessinos)
             {
-                item.Send( "{\"State\":0, \"Message\":\"" +message+ "\",\"Data\":\"\"}");
+                item.Send("{\"State\":0, \"Message\":\"" + message + "\",\"Data\":\"\"}");
             }
         }
 
